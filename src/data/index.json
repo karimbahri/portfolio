@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "project_thumbnail": "assets/images/bookrentalapp.png",
+      "work__item__title": "Book-Rental-Application",
+      "work__item__description": "Full-Stack web application designed to manage the library system and make it run more efficiently by eliminating the need for repeated manual work and lowering the risks of errors.",
+      "tech_used": [
+        {
+          "field": "Front-end",
+          "content": "ReactJS, Redux, Bootstrap",
+          "id": 0
+        },
+        {
+          "field": "Backend-end",
+          "content": "NodeJS, Express, socket.io, Mongodb, MongoAtlas",
+          "id": 1
+        },
+        { "field": "Deployment", "content": "Netlify, Heroku", "id": 2 }
+      ],
+      "work": "Collective",
+      "desktop__url": "#",
+      "github__url": "#",
+      "id": 0
+    },
+    {
+      "project_thumbnail": "../assets/images/bookrentalapp.png",
+      "work__item__title": "Book-Rental-Application",
+      "work__item__description": "Full-Stack web application designed to manage the library system and make it run more efficiently by eliminating the need for repeated manual work and lowering the risks of errors.",
+      "tech_used": [
+        {
+          "field": "Front-end",
+          "content": "ReactJS, Redux, Bootstrap",
+          "id": 1
+        },
+        {
+          "field": "Backend-end",
+          "content": "NodeJS, Express, socket.io, Mongodb, MongoAtlas",
+          "id": 2
+        },
+        { "field": "Deployment", "content": "Netlify, Heroku", "id": 3 }
+      ],
+      "work": "Collective",
+      "desktop__url": "#",
+      "github__url": "#",
+      "id": 1
+    }
+  ]
+}
