@@ -73,14 +73,6 @@ export default function Whoami() {
           Passionate about developing scalable web applications and working
           across the full stack.
         </AnimationOnScroll>
-        {/* Full-Stack developer with ability to learn and collaborate in rapidly
-        changing environments.
-        <br />
-        Hard-working with a flair for creating elegant solutions in the least
-        amount of time.
-        <br />
-        Passionate about developing scalable web applications and working across
-        the full stack. */}
       </p>
     </div>
   );
